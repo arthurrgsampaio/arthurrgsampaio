@@ -1,16 +1,22 @@
-### Hi there 👋
+## Opa, tudo bem? Sou o Arthur Rodrigues, atualmente sou estudante de desenvolvimento Front-End e Back-End!
 
-<!--
-**arthurrgsampaio/arthurrgsampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/arthurrgsampaio">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrgsampaio&theme=noctis_minimus" height="180em" />
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" allign="center alt="Arthur-CSS height="40 width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" allign="center alt="Arthur-CSS height="40 width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" allign="center alt="Arthur-CSS height="40 width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" allign="center alt="Arthur-CSS height="40 width="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/arthur-rgsampaio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  <a href="https://www.instagram.com/arth.vr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
+   <a href="mailto:arthur.rgs03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+</div>
