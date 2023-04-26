@@ -1,9 +1,8 @@
 ## Opa, tudo bem? Sou o Arthur Rodrigues, atualmente sou estudante de desenvolvimento Front-End e Back-End!
 
 <div>
-  <a href="https://github.com/arthurrgsampaio">
-  [![Arthur Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrgsampaio)]
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" /> -->
+  <a href="https://github.com/arthurrgsampaio"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrgsampaio&theme=noctis_minimus&layout=compact&langs_count=4" height="180em" />
 </div>
 
