@@ -2,7 +2,8 @@
 
 <div>
   <a href="https://github.com/arthurrgsampaio">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" />
+  [![Arthur Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrgsampaio)](https://github.com/arthurrgsampaio/github-readme-stats)
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrgsampaio&theme=noctis_minimus&layout=compact&langs_count=4" height="180em" />
 </div>
 
