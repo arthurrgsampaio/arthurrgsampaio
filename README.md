@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrgsampaio&theme=noctis_minimus&layout=compact&langs_count=4" height="180em" />
 </div>
 
+<h3>Tecnologias e aplicativos:</h3>
+
 <div style="display: inline_block"><br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" allign="center" alt="Arthur-HTML5" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" allign="center" alt="Arthur-CSS" height="40" width="40"/>
