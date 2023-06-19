@@ -1,5 +1,4 @@
-## Opa, tudo bem? Sou o Arthur Rodrigues, atualmente sou estudante de desenvolvimento Front-End e Back-End!
-
+## Opa, tudo bem? Me chamo Arthur Rodrigues, atualmente tenho me focado em estudar Front-End e Back-End, para em um futuro próximo eu me tornar Desenvolvedor Full Stack!
 <div>
   <a href="https://github.com/arthurrgsampaio"> 
   <img src="https://github-readme-stats.vercel.app/api?username=arthurrgsampaio&theme=noctis_minimus" height="180em" />
