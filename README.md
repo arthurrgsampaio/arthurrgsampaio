@@ -1,4 +1,4 @@
-## Opa, tudo bem? Me chamo Arthur Rodrigues, atualmente tenho me focado em estudar Front-End e Back-End, para em um futuro próximo eu me tornar Desenvolvedor Full Stack!
+## Opa, tudo bem? Me chamo Arthur Rodrigues, sou novo na área de Tech, onde tenho trabalhado como desenvolvedor Java e JavaScript, seja bem vindo!
 <br>
 <div>
   <a href="https://github.com/arthurrgsampaio"> 
@@ -9,13 +9,14 @@
 <h3>Tecnologias e aplicativos:</h3>
 
 <div style="display: inline_block"><br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" allign="center" alt="Arthur-HTML5" height="40" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" allign="center" alt="Arthur-CSS" height="40" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" allign="center" alt="Arthur-HTML5" height="40" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" allign="center" alt="Athur-JS" height="40" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" allign="center" alt="Athur-BS" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" allign="center" alt="Athur-SASS" height="40" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" allign="center" alt="Athur-JS" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" allign="center" alt="Arthur-Illustrator" height="40" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
 </div>
 
 ##
