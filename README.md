@@ -12,7 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" allign="center" alt="Arthur-HTML5" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" allign="center" alt="Athur-JS" height="40" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" allign="center" alt="Arthur-Python" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" allign="center" alt="Athur-BS" height="40" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" allign="center" alt="Athur-SASS" height="40" width="40"/>
